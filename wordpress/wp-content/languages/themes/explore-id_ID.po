@@ -1,0 +1,774 @@
+# Translation of Themes - Explore in Indonesian
+# This file is distributed under the same license as the Themes - Explore package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-08-13 08:52:30+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.11\n"
+"Language: id\n"
+"Project-Id-Version: Themes - Explore\n"
+
+#. Description of the theme
+#, gp-priority: high
+msgid "Explore is an incredibly flexible multipurpose responsive theme coded & designed with a lot of care and love."
+msgstr "Explore adalah tema rtesponsif serbaguna sangat fleksibel yang dirancang & di diesain dengan penuh cinta."
+
+#. Theme Name of the theme
+#: inc/admin/class-explore-welcome-notice.php:46 inc/functions.php:472
+#, gp-priority: high
+msgid "Explore"
+msgstr "Explore"
+
+#: inc/customizer.php:228
+msgid "Switch to new responsive menu"
+msgstr "Beralih ke menu responsif baru"
+
+#: inc/customizer.php:212
+msgid "Responsive Menu Style"
+msgstr "Gaya menu responsif"
+
+#: inc/admin/class-explore-dashboard.php:113
+#: inc/admin/class-explore-theme-review-notice.php:95
+msgid "Got theme support question?"
+msgstr "Ada pertanyaan seputar bantuan tema?"
+
+#: inc/admin/class-explore-welcome-notice.php:26
+msgid "Get started with Explore"
+msgstr "Mulai Explore"
+
+#. translators: 1: welcome page link starting html tag, 2: welcome page link
+#. ending html tag.
+#: inc/admin/class-explore-welcome-notice.php:54
+msgid "Welcome! Thank you for choosing Explore! To fully take advantage of the best our theme can offer please make sure you visit our %1$swelcome page%2$s."
+msgstr "Selamat Datang! Terimakasih telah memilih Explore! Untuk mendapatkan manfaat lebih yang ada pada tema harap pastikan Anda mengunjungi %1$shalaman selamat datang%2$s kami."
+
+#: inc/admin/class-explore-welcome-notice.php:81
+msgid "Cheatin&#8217; huh?"
+msgstr "Aneh huh?"
+
+#: inc/admin/class-explore-welcome-notice.php:77
+msgid "Action failed. Please refresh the page and retry."
+msgstr "Gagal. Silahkan muat ulang laman dan coba lagi."
+
+#. Template Name of the theme
+msgid "Contact Page Template"
+msgstr "Template Laman Kontak"
+
+#. Template Name of the theme
+msgid "Business Template"
+msgstr "Template Bisnis"
+
+#: sidebar.php:37
+msgid "This is an example widget to show how the %s sidebar looks by default. You can add custom widgets from the %swidgets screen%s in the admin. If custom widgets are added then this will be replaced by those widgets."
+msgstr "Ini adalah contoh widget untuk menunjukkan bagaimana sidebar %s terlihat. Anda dapat menambahkan kustom widget dari %slayar widget%s. Jika kustom widget ditambahkan maka ini akan ditimpa olehnya."
+
+#: sidebar.php:29
+msgid "Contact Page"
+msgstr "Laman Kontak"
+
+#: sidebar.php:20
+msgid "Left"
+msgstr "Kiri"
+
+#: sidebar.php:14
+msgid "Right"
+msgstr "Kanan"
+
+#: sidebar-left.php:19
+msgid "This is an example widget to show how the Left sidebar looks by default. You can add custom widgets from the %swidgets screen%s in the admin. If custom widgets are added then this will be replaced by those widgets."
+msgstr "Ini adalah contoh widget untuk menunjukkan bagaimana sidebar Kiri tampil. Anda dapat menambahkan widget kustom dari %slayar widget%s. Jika widget kustom ditambahkan makan yang ini akan ditimpa."
+
+#: sidebar-left.php:18 sidebar.php:36
+msgid "Example Widget"
+msgstr "Contoh Widget"
+
+#: searchform.php:12 searchform.php:13
+msgid "Search"
+msgstr "Cari"
+
+#: no-results.php:27
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Tampaknya kami tak bisa menemukan apa yang Anda inginkan. Mungkin pencarian bisa membantu."
+
+#: no-results.php:22
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Maaf, tak ada yang cocok dengan kata kunci pencarian Anda. Silakan coba lgi dengan kata kunci berbeda."
+
+#: no-results.php:18
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Siap menerbitkan pos pertamamu? <a href=\"%1$s\">Mulailah disini</a>."
+
+#: navigation.php:35
+msgid "Next &rarr;"
+msgstr "Selanjutnya &rarr;"
+
+#: navigation.php:34
+msgid "&larr; Previous"
+msgstr "&larr; Sebelumnya"
+
+#: navigation.php:23
+msgid "Next &raquo;"
+msgstr "Selanjutnya &raquo;"
+
+#: navigation.php:22
+msgid "&laquo; Previous"
+msgstr "&laquo; Sebelumnya"
+
+#: inc/widgets/widgets.php:177
+msgid "Page"
+msgstr "Laman"
+
+#: inc/widgets/widgets.php:161
+msgid "TG: Services"
+msgstr "TG: Layanan"
+
+#: inc/widgets/widgets.php:159
+msgid "Display some of the pages as services."
+msgstr "Tampilkan benerapa laman sebagai layanan."
+
+#: inc/widgets/widgets.php:141
+msgid "Shows widgets at footer sidebar four."
+msgstr "Menampilkan widget sidebar footer empat."
+
+#: inc/widgets/widgets.php:139
+msgid "Footer Sidebar Four"
+msgstr "Sidebar Footer Empat"
+
+#: inc/widgets/widgets.php:130
+msgid "Shows widgets at footer sidebar three."
+msgstr "Menampilkan widget di sidebar footer tiga."
+
+#: inc/widgets/widgets.php:128
+msgid "Footer Sidebar Three"
+msgstr "Sidebar Footer Tiga"
+
+#: inc/widgets/widgets.php:119
+msgid "Shows widgets at footer sidebar two."
+msgstr "Menampilkan widget di sidebar widget dua."
+
+#: inc/widgets/widgets.php:117
+msgid "Footer Sidebar Two"
+msgstr "Sidebar Footer Dua"
+
+#: inc/widgets/widgets.php:108
+msgid "Shows widgets at footer sidebar one."
+msgstr "Menampilkan widget di sidebar footer satu."
+
+#: inc/widgets/widgets.php:106
+msgid "Footer Sidebar One"
+msgstr "Sidebar Footer Satu"
+
+#: inc/widgets/widgets.php:97
+msgid "Shows widgets on Error 404 page."
+msgstr "Menampilkan widget pada laman Error 404."
+
+#: inc/widgets/widgets.php:95
+msgid "Error 404 Page Sidebar"
+msgstr "Sidebar Laman Error 404"
+
+#: inc/widgets/widgets.php:86
+msgid "Shows widgets on Contact Page Template."
+msgstr "Menampilkan widget pada Template Laman Kontak."
+
+#: inc/widgets/widgets.php:84
+msgid "Contact Page Sidebar"
+msgstr "Sidebar Laman Kontak"
+
+#: inc/widgets/widgets.php:75
+msgid "Shows widgets in the business sidebar page area."
+msgstr "Menampilkan widget di area sidebar laman bisnis."
+
+#: inc/widgets/widgets.php:73
+msgid "Business Sidebar"
+msgstr "Sidebar Bisnis"
+
+#: inc/widgets/widgets.php:64
+msgid "Shows widgets in header section three."
+msgstr "Menampilkan widget di bagian header tiga."
+
+#: inc/widgets/widgets.php:62
+msgid "Header Sidebar Three"
+msgstr "Sidebar Header Tiga"
+
+#: inc/widgets/widgets.php:53
+msgid "Shows widgets in header section two."
+msgstr "Menampilkan widget di bagian header dua."
+
+#: inc/widgets/widgets.php:51
+msgid "Header Sidebar Two"
+msgstr "Sidebar Header Dua"
+
+#: inc/widgets/widgets.php:42
+msgid "Shows widgets in header section one."
+msgstr "Menampilkan widget bagian header satu."
+
+#: inc/widgets/widgets.php:40
+msgid "Header Sidebar One"
+msgstr "Sidebar Header Satu"
+
+#: inc/widgets/widgets.php:31
+msgid "Shows widgets at Left side."
+msgstr "Menampilkan widget di sisi Kiri."
+
+#: inc/widgets/widgets.php:20
+msgid "Shows widgets at Right side."
+msgstr "Menampilkan widget di sisi Kanan."
+
+#: inc/related-posts.php:45
+msgid "<span class=\"posted-on\"><a href=\"%1$s\" title=\"%2$s\" rel=\"bookmark\"><i class=\"fa fa-calendar-o\"></i> %3$s</a></span>"
+msgstr "<span class=\"posted-on\"><a href=\"%1$s\" title=\"%2$s\" rel=\"bookmark\"><i class=\"fa fa-calendar-o\"></i> %3$s</a></span>"
+
+#: inc/related-posts.php:17
+msgid "You May Also Like"
+msgstr "Mungkin Anda Juga Suka"
+
+#: inc/header-functions.php:259
+msgid "You are here:"
+msgstr "Anda disini:"
+
+#: inc/header-functions.php:226
+msgid "Search Results"
+msgstr "Hasil Pencarian"
+
+#: inc/header-functions.php:223
+msgid "Page NOT Found"
+msgstr "Laman TIDAK Ditemukan"
+
+#: inc/header-functions.php:218
+msgid "Archives"
+msgstr "Arsip"
+
+#: inc/header-functions.php:215
+msgid "Status"
+msgstr "Status"
+
+#: inc/header-functions.php:212
+msgid "Audio"
+msgstr "Audio"
+
+#: inc/header-functions.php:209
+msgid "Chat"
+msgstr "Obrolan"
+
+#: inc/header-functions.php:206
+msgid "Gallery"
+msgstr "Galeri"
+
+#: inc/header-functions.php:203
+msgid "Links"
+msgstr "Tautan"
+
+#: inc/header-functions.php:200
+msgid "Quotes"
+msgstr "Kutipan"
+
+#: inc/header-functions.php:197
+msgid "Videos"
+msgstr "Video"
+
+#: inc/header-functions.php:194
+msgid "Images"
+msgstr "Gambar"
+
+#: inc/header-functions.php:191
+msgid "Asides"
+msgstr "Aside"
+
+#: inc/header-functions.php:188
+msgid "Year: %s"
+msgstr "Tahun: %s"
+
+#: inc/header-functions.php:185
+msgid "Month: %s"
+msgstr "Bulan: %s"
+
+#: inc/header-functions.php:182
+msgid "Day: %s"
+msgstr "Hari: %s"
+
+#: inc/header-functions.php:174
+msgid "Author: %s"
+msgstr "Penulis: %s"
+
+#: inc/header-functions.php:128
+msgid "Read More"
+msgstr "Baca Selanjutnya"
+
+#: inc/functions.php:672
+msgid "Comments Off"
+msgstr "Komentar Dimatikan"
+
+#: inc/functions.php:672
+msgid "% Comments"
+msgstr "% Komentar"
+
+#: inc/functions.php:672
+msgid "1 Comment"
+msgstr "1 Komentar"
+
+#: inc/functions.php:672
+msgid "No Comments"
+msgstr "Tidak Ada Komentar"
+
+#: inc/functions.php:635
+msgid "% <i class=\"fa fa-comments\"></i>"
+msgstr "% <i class=\"fa fa-comments\"></i>"
+
+#: inc/functions.php:635
+msgid "1 <i class=\"fa fa-comment\"></i>"
+msgstr "1 <i class=\"fa fa-comment\"></i>"
+
+#: inc/functions.php:635
+msgid "0 <i class=\"fa fa-comment\"></i>"
+msgstr "0 <i class=\"fa fa-comment\"></i>"
+
+#: inc/functions.php:627
+msgid "<span class=\"posted-on\"><a href=\"%1$s\" title=\"%2$s\" rel=\"bookmark\">%3$s</a></span>"
+msgstr "<span class=\"posted-on\"><a href=\"%1$s\" title=\"%2$s\" rel=\"bookmark\">%3$s</a></span>"
+
+#: inc/functions.php:474
+msgid "Theme: %1$s by %2$s."
+msgstr "Tema: %1$s oleh %2$s."
+
+#: inc/functions.php:474
+msgid "Powered by %s."
+msgstr "Dipersembahkan oleh %s."
+
+#: inc/functions.php:474
+msgid "Copyright &copy; %1$s %2$s. All rights reserved."
+msgstr "Hak Cipta &copy; %1$s %2$s. Keseluruhan."
+
+#: inc/functions.php:470
+msgid "WordPress"
+msgstr "WordPress"
+
+#: inc/functions.php:444
+msgid "Reply"
+msgstr "Balas"
+
+#: inc/functions.php:438
+msgid "Your comment is awaiting moderation."
+msgstr "Komentar Anda sedang dimoderasi."
+
+#: inc/functions.php:432
+msgid "<a class=\"comment-permalink\" href=\"%1$s\">Permalink</a>"
+msgstr "<a class=\"comment-permalink\" href=\"%1$s\">Permalink</a>"
+
+#: inc/functions.php:430
+msgid "%1$s at %2$s"
+msgstr "%1$s pada %2$s"
+
+#: inc/functions.php:427
+msgid "Post author"
+msgstr "Penulis pos"
+
+#: inc/functions.php:412
+msgid "(Edit)"
+msgstr "(Sunting)"
+
+#: inc/functions.php:412
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: inc/functions.php:386
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Pos terbaru <span class=\"meta-nav\">&rarr;</span>"
+
+#: inc/functions.php:382
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> Pos terdahulu"
+
+#: inc/functions.php:377 navigation.php:43
+msgctxt "Next post link"
+msgid "&rarr;"
+msgstr "&rarr;"
+
+#: inc/functions.php:376 navigation.php:42
+msgctxt "Previous post link"
+msgid "&larr;"
+msgstr "&larr;"
+
+#: inc/functions.php:372
+msgid "Post navigation"
+msgstr "Navigasi pos"
+
+#. Translators: To add an additional character subset specific to your
+#. language, translate this to 'cyrillic'. Do not translate into your own
+#. language.
+#: inc/functions.php:38
+msgctxt "Add new subset (cyrillic)"
+msgid "no-subset"
+msgstr "no-subset"
+
+#. Translators: If there are characters in your language that are not supported
+#. by PT Sans, translate this to 'off'. Do not translate into your own
+#. language.
+#: inc/functions.php:30
+msgctxt "PT Sans font: on or off"
+msgid "on"
+msgstr "on"
+
+#: inc/customizer.php:863
+msgid "Enter link to redirect for the second button."
+msgstr "Masukkan link untuk mengarahkan tombol kedua."
+
+#: inc/customizer.php:846
+msgid "Enter the second button text."
+msgstr "Masukkan teks tombol kedua."
+
+#: inc/customizer.php:828
+msgid "When this field is empty, the link will be redirected default to the page link."
+msgstr "Ketika bidang ini kosong, link akan diarahkan ke tautan halaman."
+
+#: inc/customizer.php:827
+msgid "Enter link to redirect for the first button."
+msgstr "Masukkan link untuk mengarahkan tombol pertama."
+
+#: inc/customizer.php:810
+msgid "When this field is empty, Read More button is shown."
+msgstr "Ketika bidang ini kosong, tombol Baca Selengkapnya muncul."
+
+#: inc/customizer.php:809
+msgid "Enter the first button text."
+msgstr "Masukkan teks tombol pertama."
+
+#: inc/customizer.php:790
+msgid "Slider Page "
+msgstr "Laman Slider"
+
+#: inc/customizer.php:773
+msgid "Slider #"
+msgstr "Slider #"
+
+#: inc/customizer.php:750
+msgid "Check to activate slider."
+msgstr "Centang untuk mengaktifkan slider."
+
+#: inc/customizer.php:732
+msgid "In order to show a slider, you must have the featured image associated with the respective page choosen from below option."
+msgstr "Untuk memunculkan slider, Anda harus memiliki gambar andalan pada laman yang terpilih dibawah."
+
+#: inc/customizer.php:730
+msgid "Activate slider"
+msgstr "Aktifkan Slider"
+
+#: inc/customizer.php:720
+msgid "Slider Options"
+msgstr "Opsi slider"
+
+#: inc/customizer.php:708
+msgid "Check to enable the Author Bio in single post."
+msgstr "Centang untuk mengaktifkan Bio Penulis di pos tunggal."
+
+#: inc/customizer.php:690
+msgid "Author Bio"
+msgstr "Bio Penulis"
+
+#: inc/customizer.php:679
+msgid "Check to disable the featured images in single post."
+msgstr "Centang untuk menyingkirkan gambar andalan di pos tunggal."
+
+#: inc/customizer.php:661
+msgid "Remove Featured Image"
+msgstr "Singkirkan Gambar Andalan"
+
+#: inc/customizer.php:651
+msgid "Related Posts By Tags"
+msgstr "Berdasarkan Tag"
+
+#: inc/customizer.php:650
+msgid "Related Posts By Categories"
+msgstr "Berdasarkan Kategori"
+
+#: inc/customizer.php:646
+msgid "Related Posts To Be Shown As:"
+msgstr "Pos Terkait Muncul Berdasarkan:"
+
+#: inc/customizer.php:627
+msgid "Check to activate the related posts."
+msgstr "Centang untuk mengaktifkan pos terkait."
+
+#: inc/customizer.php:609
+msgid "Related Posts"
+msgstr "Pos Terkait"
+
+#: inc/customizer.php:599
+msgid "Additional Options"
+msgstr "Opsi Tambahan"
+
+#: inc/customizer.php:586
+msgid "Write your custom CSS code here and design live."
+msgstr "Tulis kode CSS kustom Anda disini dan langsung desain."
+
+#: inc/customizer.php:567
+msgid "Custom CSS"
+msgstr "CSS Kustom"
+
+#: inc/customizer.php:556
+msgid "Dark"
+msgstr "Gelap"
+
+#: inc/customizer.php:555
+msgid "Light"
+msgstr "Terang"
+
+#: inc/customizer.php:551
+msgid "Choose the light or dark skin. This will be reflected in whole site."
+msgstr "Tentukanlah warna kulit gelap atau terang. Akan berdampak pada keseluruhan situs."
+
+#: inc/customizer.php:533
+msgid "Color Skin"
+msgstr "Warna Kulit"
+
+#: inc/customizer.php:521
+msgid "This will reflect in links, buttons and many others. Choose a color to match your site."
+msgstr "Berdampak pada link, tombol dan banyak lagi. Tentukan warna yang cocok dengan situs Anda."
+
+#: inc/customizer.php:500
+msgid "Primary color option"
+msgstr "Opsi warna utama"
+
+#: inc/customizer.php:489
+msgid "Large image and full content"
+msgstr "Gambar besar dan konten penuh"
+
+#: inc/customizer.php:488
+msgid "Alternate position medium image and summary text"
+msgstr "Posisi bergantian gambar sedang dan tulisan ringkasan"
+
+#: inc/customizer.php:487
+msgid "Medium image and summary text"
+msgstr "Gambar sedang dan tulisan ringkasan"
+
+#: inc/customizer.php:486
+msgid "Large image and summary text"
+msgstr "Gambar besar dan tulisan ringkasan"
+
+#: inc/customizer.php:484
+msgid "Choose the display type for your blog or category page"
+msgstr "Tentukan jenis tampilan untuk blog atau laman kategori Anda"
+
+#: inc/customizer.php:466
+msgid "Blog Posts display type"
+msgstr "Jenis tampilan Pos Blog"
+
+#: inc/customizer.php:447
+msgid "Select default layout for single posts. This layout will be reflected in all single posts unless unique layout is set for specific post."
+msgstr "Pilih tata letak default untuk pos tunggal. Tata letak ini berdampak di semua pos tunggal kecuali tata letak unik diterapkan pada pos tertentu."
+
+#: inc/customizer.php:427
+msgid "Default layout for single posts only"
+msgstr "Tata letak bawaan untuk pos tunggal saja"
+
+#: inc/customizer.php:408
+msgid "Select default layout for pages. This layout will be reflected in all pages unless unique layout is set for specific page."
+msgstr "Pilih tata letak default untuk laman. Tata letak ini akan berdampak pada semua laman kecuali laman yang diterapkan tata letak unik."
+
+#: inc/customizer.php:388
+msgid "Default layout for pages only"
+msgstr "Tata letak default untuk laman saja"
+
+#: inc/customizer.php:369
+msgid "Select default layout. This layout will be reflected in whole site archives, search etc. The layout for a single post and page can be controlled from below options."
+msgstr "Pilih tata letak default. Tata letak ini akan berdampak di semua situs arsip, pencarian, dll. Tata letak untuk pos dan laman tunggal bisa diatur dari opsi dibawah."
+
+#: inc/customizer.php:349
+msgid "Default layout"
+msgstr "Tata Letak Bawaan"
+
+#: inc/customizer.php:272
+msgid "Wide layout"
+msgstr "Tata letak lebar"
+
+#: inc/customizer.php:271
+msgid "Boxed layout"
+msgstr "Tata letak kotak"
+
+#: inc/customizer.php:269
+msgid "Choose your site layout. The change is reflected in whole site."
+msgstr "Tentukan tata letak situs Anda. Perubahan berdampak di keseluruhan situs."
+
+#: inc/customizer.php:250
+msgid "Site Layout"
+msgstr "Tata Letak Situs"
+
+#: inc/customizer.php:241
+msgid "Design Options"
+msgstr "Opsi Desain"
+
+#: inc/customizer.php:202
+msgid "Position Below: Display the Header image just below the site title and main menu part."
+msgstr "Posisi Dibawah: Tampilkan gambar Header tepat dibawah judul dan bagian menu utama situs."
+
+#: inc/customizer.php:201
+msgid "Position Above (Default): Display the Header image just above the site title and main menu part."
+msgstr "Posisi Diatas (Bawaan): Tampilkan gambar Header tepat diatas judul dan bagian menu utama situs."
+
+#: inc/customizer.php:198
+msgid "Choose top header image display position."
+msgstr "Tentukan posisi gambar header atas."
+
+#: inc/customizer.php:180
+msgid "Header Image Position"
+msgstr "Posisi Gambar Header"
+
+#: inc/customizer.php:169
+msgid "Check to make the primary menu sticky."
+msgstr "Centang untuk membuat menu utama lengket."
+
+#: inc/customizer.php:151
+msgid "Sticky Menu"
+msgstr "Menu Lengket"
+
+#: inc/customizer.php:141
+msgid "Disable"
+msgstr "Tiadakan"
+
+#: inc/customizer.php:140
+msgid "Show Both"
+msgstr "Tampilkan Keduanya"
+
+#: inc/customizer.php:139
+msgid "Header Text Only"
+msgstr "Hanya Teks Header"
+
+#: inc/customizer.php:138
+msgid "Header Logo Only"
+msgstr "Hanya Logo Header."
+
+#: inc/customizer.php:135
+msgid "Choose the option that you want."
+msgstr "Tentukan opsi yang Anda inginkan."
+
+#: inc/customizer.php:117
+msgid "Header Options"
+msgstr "Opsi Header"
+
+#: inc/customizer.php:83
+msgid "About Explore"
+msgstr "Tentang Explore"
+
+#: inc/customizer.php:66
+msgid "If you like our work. Buy us a beer."
+msgstr "Jika Amda menyukai kerjaan kami. Belikan kami bir."
+
+#: inc/customizer.php:58
+msgid "Rate this theme"
+msgstr "Nilailah tema ini"
+
+#: inc/customizer.php:54
+msgid "View Demo"
+msgstr "Lihat Demo"
+
+#: inc/admin/class-explore-dashboard.php:105 inc/customizer.php:50
+msgid "Documentation"
+msgstr "Dokumentasi"
+
+#: inc/customizer.php:46
+msgid "Free Support"
+msgstr "Bantuan Gratis"
+
+#: inc/admin/meta-boxes.php:53
+msgid "No Sidebar Content Centered"
+msgstr "Konten Tengah Tanpa Sidebar"
+
+#: inc/admin/meta-boxes.php:48
+msgid "No Sidebar Full Width"
+msgstr "Lebar Penuh Tanpa Sidebar"
+
+#: inc/admin/meta-boxes.php:43
+msgid "Both Sidebar"
+msgstr "Kedua Sidebar"
+
+#: inc/admin/meta-boxes.php:38 inc/widgets/widgets.php:29
+msgid "Left Sidebar"
+msgstr "Sidebar Kiri"
+
+#: inc/admin/meta-boxes.php:33 inc/widgets/widgets.php:18
+msgid "Right Sidebar"
+msgstr "Sidebar Kanan"
+
+#: inc/admin/meta-boxes.php:28
+msgid "Default Layout"
+msgstr "Tata Letak Bawaan"
+
+#: inc/admin/meta-boxes.php:16 inc/admin/meta-boxes.php:18
+msgid "Select Layout"
+msgstr "Pilih Tata Letak"
+
+#: functions.php:90
+msgid "Footer Menu"
+msgstr "Menu Footer"
+
+#: functions.php:89
+msgid "Primary Menu"
+msgstr "Menu Utama"
+
+#: functions.php:88
+msgid "Social Menu"
+msgstr "Menu Sosial"
+
+#: content-single.php:38
+msgid "Tagged on: "
+msgstr "Ditag pada:"
+
+#: content-page.php:39 inc/functions.php:638 inc/functions.php:674
+msgid "Edit"
+msgstr "Sunting"
+
+#: content-blog-image-large.php:40 content-blog-image-medium.php:38
+#: content.php:45 inc/widgets/widgets.php:240
+msgid "Read more"
+msgstr "Selengkapnya"
+
+#: content-blog-full-content.php:38 content-page.php:30 content-single.php:45
+msgid "Pages:"
+msgstr "Laman:"
+
+#: comments.php:67
+msgid "Comments are closed."
+msgstr "Komentar ditutup."
+
+#: comments.php:40 comments.php:57
+msgid "Newer Comments &rarr;"
+msgstr "Komentar Terbaru &rarr;"
+
+#: comments.php:39 comments.php:56
+msgid "&larr; Older Comments"
+msgstr "&larr; Komentar Terdahulu"
+
+#: comments.php:38 comments.php:55
+msgid "Comment navigation"
+msgstr "Navigasi komentar"
+
+#: comments.php:31
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Satu komentar pada &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s komentar pada &ldquo;%2$s&rdquo;"
+
+#: 404.php:23
+msgid "It looks like nothing was found at this location. Try the search below."
+msgstr "Sepertinya tidak ada apa-apa disini. Cobalah pencarian dibawah ini."
+
+#: 404.php:21
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Ups! Laman tersebut tak ditemukan."
+
+#. Author URI of the theme
+#, gp-priority: low
+msgid "https://themegrill.com"
+msgstr "https://themegrill.com"
+
+#. Theme URI of the theme
+#, gp-priority: low
+msgid "https://themegrill.com/themes/explore"
+msgstr "https://themegrill.com/themes/explore"
+
+#. Author of the theme
+#, gp-priority: low
+msgid "ThemeGrill"
+msgstr "ThemeGrill"
